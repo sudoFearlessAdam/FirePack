@@ -1,6 +1,7 @@
 // sudoFearlessAdam (github.com/sudoFearlessAdam)
 // main.cpp - Master installer. This script installs firepack to the computer.
 
+
 #include <windows.h>
 #include <shlobj.h>
 #include <filesystem>
@@ -263,4 +264,5 @@ int main() {
     setColor(7);
     system("pause");
     return 0;
+
 }
