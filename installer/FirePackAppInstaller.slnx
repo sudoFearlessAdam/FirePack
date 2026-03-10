@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FirePackAppInstaller/FirePackAppInstaller.vcxproj" Id="f58d0b73-99c9-4a9e-884a-a1a2c5e27192" />
+</Solution>
