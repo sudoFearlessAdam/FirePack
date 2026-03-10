@@ -1,3 +1,6 @@
+// sudoFearlessAdam (github.com/sudoFearlessAdam)
+// Main.cpp - Pack installer. This script is the installer that installs a firepack (.fpack)
+
 #include <windows.h>
 #include <shlobj.h>
 #include <filesystem>
@@ -312,4 +315,5 @@ int main(int argc, char* argv[])
     }
 
     return 0;
+
 }
